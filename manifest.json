@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "firmwares": [
+    {
+      "envName": "LightDrive_AndromedaT",
+      "modelId": 1,
+      "controlBoardId": 3,
+      "modelName": "Andromeda Tabletop",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_AndromedaP",
+      "modelId": 2,
+      "controlBoardId": 3,
+      "modelName": "Andromeda Pendant",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_AndromedaP_HD",
+      "modelId": 14,
+      "controlBoardId": 3,
+      "modelName": "Andromeda Pendant HD",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Voyager",
+      "modelId": 3,
+      "controlBoardId": 3,
+      "modelName": "Voyager",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_VoyagerHD",
+      "modelId": 3,
+      "controlBoardId": 2,
+      "modelName": "Voyager HD",
+      "boardName": "LightDrive M1 Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Vega",
+      "modelId": 4,
+      "controlBoardId": 3,
+      "modelName": "Vega",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Lotus",
+      "modelId": 5,
+      "controlBoardId": 2,
+      "modelName": "Lotus",
+      "boardName": "LightDrive M1 Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_LaunchPad",
+      "modelId": 6,
+      "controlBoardId": 3,
+      "modelName": "Launchpad",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Mini",
+      "modelId": 7,
+      "controlBoardId": 2,
+      "modelName": "LightDrive Mini",
+      "boardName": "LightDrive M1 Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Stargate",
+      "modelId": 8,
+      "controlBoardId": 3,
+      "modelName": "Stargate",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Quasar",
+      "modelId": 9,
+      "controlBoardId": 2,
+      "modelName": "Quasar",
+      "boardName": "LightDrive M1 Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Ion",
+      "modelId": 10,
+      "controlBoardId": 3,
+      "modelName": "Ion",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Pico",
+      "modelId": 11,
+      "controlBoardId": 3,
+      "modelName": "LightDrive Pico",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Pico_APA102",
+      "modelId": 11,
+      "controlBoardId": 3,
+      "modelName": "LightDrive Pico (APA102)",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_PrismDeck",
+      "modelId": 12,
+      "controlBoardId": 3,
+      "modelName": "Star Deck / Prism Deck",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_PrismDeck_M1",
+      "modelId": 12,
+      "controlBoardId": 2,
+      "modelName": "Star Deck / Prism Deck (M1)",
+      "boardName": "LightDrive M1 Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Arc",
+      "modelId": 13,
+      "controlBoardId": 3,
+      "modelName": "Astral Arc",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_Ultra",
+      "modelId": 3,
+      "controlBoardId": 4,
+      "modelName": "Voyager Ultra",
+      "boardName": "LightDrive Ultra Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    },
+    {
+      "envName": "LightDrive_AndromedasMaximus",
+      "modelId": 15,
+      "controlBoardId": 3,
+      "modelName": "Andromedas Maximus",
+      "boardName": "LightDrive Pico Controller",
+      "latestVersion": "0.0.0",
+      "binaryUrl": ""
+    }
+  ]
+}
