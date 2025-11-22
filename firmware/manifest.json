@@ -115,8 +115,8 @@
       "controlBoardId": 3,
       "modelName": "LightDrive Pico",
       "boardName": "LightDrive Pico Controller",
-      "latestVersion": "1.0.5",
-      "binaryUrl": "https://raw.githubusercontent.com/SpaceCadetLights/LightDrive_Nebula_Firmware/main/firmware/LD_MODEL11_BOARD3_1.0.5.bin"
+      "latestVersion": "1.0.6",
+      "binaryUrl": "https://raw.githubusercontent.com/SpaceCadetLights/LightDrive_Nebula_Firmware/main/firmware/LD_MODEL11_BOARD3_1.0.6.bin"
     },
     {
       "envName": "LightDrive_Pico_APA102",
